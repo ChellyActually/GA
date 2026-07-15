@@ -1,0 +1,56 @@
+[
+  {
+    "itemName": "APPLE",
+    "quantity": 2,
+    "expireIn": 21,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "ORANGE",
+    "quantity": 2,
+    "expireIn": 28,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "PEAR",
+    "quantity": 1,
+    "expireIn": 10,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "BLUEBERRY",
+    "quantity": 1,
+    "expireIn": 10,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "KIWI",
+    "quantity": 2,
+    "expireIn": 14,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "WATERMELON",
+    "quantity": 1,
+    "expireIn": 14,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "LEMON",
+    "quantity": 1,
+    "expireIn": 28,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "CHEESE",
+    "quantity": 1,
+    "expireIn": 21,
+    "dateAdded": 1784119137682
+  },
+  {
+    "itemName": "YOGURT",
+    "quantity": 1,
+    "expireIn": 14,
+    "dateAdded": 1784119137682
+  }
+]

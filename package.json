@@ -1,0 +1,11 @@
+{
+  "name": "node-api-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env generate-json.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
