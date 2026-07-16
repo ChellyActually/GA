@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node --env-file=.env generate-json.js"
+    "read-receipt": "node --env-file=.env generate-json.js && node check-expire.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1"
