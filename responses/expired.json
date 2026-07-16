@@ -2,19 +2,19 @@
   {
     "itemName": "BANANA",
     "quantity": 3,
-    "expireIn": 7,
-    "dateAdded": 1784119137682
+    "expireIn": 5,
+    "dateAdded": 1784174575017
   },
   {
-    "itemName": "GRAPES",
-    "quantity": 2,
-    "expireIn": 7,
-    "dateAdded": 1784119137682
-  },
-  {
-    "itemName": "MILK",
+    "itemName": "STRAWBERRY",
     "quantity": 1,
-    "expireIn": 7,
-    "dateAdded": 1784119137682
+    "expireIn": 5,
+    "dateAdded": 1784174575017
+  },
+  {
+    "itemName": "RASPBERRY",
+    "quantity": 1,
+    "expireIn": 3,
+    "dateAdded": 1784174575017
   }
 ]
