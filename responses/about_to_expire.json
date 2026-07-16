@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "itemName": "GRAPES",
+    "quantity": 2,
+    "expireIn": 7,
+    "dateAdded": 1784175413870
+  },
+  {
+    "itemName": "MILK",
+    "quantity": 1,
+    "expireIn": 7,
+    "dateAdded": 1784175413870
+  }
+]

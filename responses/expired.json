@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "itemName": "BANANA",
+    "quantity": 3,
+    "expireIn": 5,
+    "dateAdded": 1784175413870
+  },
+  {
+    "itemName": "STRAWBERRY",
+    "quantity": 1,
+    "expireIn": 5,
+    "dateAdded": 1784175413870
+  },
+  {
+    "itemName": "RASPBERRY",
+    "quantity": 1,
+    "expireIn": 3,
+    "dateAdded": 1784175413870
+  }
+]

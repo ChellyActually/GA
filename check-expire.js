@@ -9,9 +9,10 @@ export default function checkExpire() {
   const data = JSON.parse(fileData);
 
   for (let i = 0; i < data.length; i++) {
-    const daysInFridge = Math.ceil(
-      ((Date.now() - data[i].dateAdded) / 86400000).toFixed(2)
-    );
+    // const daysInFridge = Math.ceil(
+    //   ((Date.now() - data[i].dateAdded) / 86400000).toFixed(2)
+    // );
+    const daysInFridge = 6
     if (daysInFridge >= data[i].expireIn) {
         expired.push(data[i])
       console.log(`Expired and removed: ${data[i].itemName}`);
