@@ -28,7 +28,7 @@ export default async function generateCookingRecipe(){
       Include:
       - Recipe Title
       - Prep & Cook Time
-      - Ingredients used (highlighting the expiring ones)
+      - Ingredients used 
       - Step-by-step instructions
     `;
     console.log("Generating recipe using expiring ingredients...");
