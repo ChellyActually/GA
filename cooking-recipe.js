@@ -4,7 +4,7 @@ import{GoogleGenerativeAI} from "@google/generative-ai";
 import {readFileSync,writeFileSync,existsSync} from "node:fs";
 
 const ai = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = ai.getGenarativeModel({model:"gemini-3.1-flash-lite"});
+const model = ai.getGenerativeModel({model:"gemini-3.1-flash-lite"});
 
 export default async function generateCookingRecipe(){
     const filePath = 'response/about_to_expire.json';
