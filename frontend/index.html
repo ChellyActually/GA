@@ -5,9 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script type="module" src="main.js" defer></script>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h4 id="lastRefreshed">Last refreshed : </h4>
+
+    <div class="upload-section">
+        <h2>Upload Receipt</h2>
+        <input type="file" id="imageInput" accept="image/*">
+        <button id="uploadBtn">Upload Image</button>
+    </div>
+
+    <div class="recipe-section">
+        <h3>Recipe with ingredients which are about to expire</h3>
+        <button id="get-recipe" type="button">Get Recipe</button>
+        <button id="hide-recipe" type="button">hide Recipe</button>
+        <div id="recipe-display"></div>
+    </div>
+
     <div class="grocery-items">
         <h1>Grocery Items</h1>
         <div class="grocery-list"></div>

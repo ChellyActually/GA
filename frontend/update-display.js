@@ -4,9 +4,9 @@ const ateList = document.querySelector(".ate-list");
 const expiredList = document.querySelector(".expired-list");
 
 export default async function updateDisplay() {
-  const groceryData = await fetch("responses/grocery_items.json");
-  const ateData = await fetch("responses/about_to_expire.json");
-  const expiredData = await fetch("responses/expired.json");
+  const groceryData = await fetch("http://localhost:3005/api/groceries");
+  const ateData = await fetch("http://localhost:3005/api/ate");
+  const expiredData = await fetch("http://localhost:3005/api/expired");
 
   const groceryArray = await groceryData.json();
   const ateArray = await ateData.json();

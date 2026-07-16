@@ -3,18 +3,21 @@
     "itemName": "BANANA",
     "quantity": 3,
     "expireIn": 5,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "STRAWBERRY",
     "quantity": 1,
     "expireIn": 5,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "RASPBERRY",
     "quantity": 1,
     "expireIn": 3,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   }
 ]

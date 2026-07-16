@@ -13,6 +13,7 @@ export default function checkExpire() {
     //   ((Date.now() - data[i].dateAdded) / 86400000).toFixed(2)
     // );
     const daysInFridge = 6
+    data[i].inFridgeDays = daysInFridge;
     if (daysInFridge >= data[i].expireIn) {
         expired.push(data[i])
       console.log(`Expired and removed: ${data[i].itemName}`);

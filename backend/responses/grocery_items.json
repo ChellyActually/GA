@@ -3,66 +3,77 @@
     "itemName": "APPLE",
     "quantity": 2,
     "expireIn": 21,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "ORANGE",
     "quantity": 2,
     "expireIn": 21,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "PEAR",
     "quantity": 1,
     "expireIn": 10,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "GRAPES",
     "quantity": 2,
     "expireIn": 7,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "BLUEBERRY",
     "quantity": 1,
-    "expireIn": 10,
-    "dateAdded": 1784175413870
+    "expireIn": 7,
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "KIWI",
     "quantity": 2,
     "expireIn": 14,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "WATERMELON",
     "quantity": 1,
     "expireIn": 14,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "LEMON",
     "quantity": 1,
     "expireIn": 28,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "MILK",
     "quantity": 1,
     "expireIn": 7,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "CHEESE",
     "quantity": 1,
     "expireIn": 21,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   },
   {
     "itemName": "YOGURT",
     "quantity": 1,
     "expireIn": 14,
-    "dateAdded": 1784175413870
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
   }
 ]

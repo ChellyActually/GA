@@ -27,7 +27,7 @@ async function extractReceipt() {
   Return a JSON array of objects containing 'itemName', 'quantity' (if available, otherwise null), and 'expireIn' which is the common expire time (in days) if refregerated.
   `;
   
-  const imagePart = fileToGenerativePart("assets/receipt.jpg", "image/jpeg");
+  const imagePart = fileToGenerativePart("uploads/receipt.jpg", "image/jpeg");
   
   try {
     console.log("Analyzing receipt...");

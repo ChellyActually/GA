@@ -1,0 +1,23 @@
+[
+  {
+    "itemName": "GRAPES",
+    "quantity": 2,
+    "expireIn": 7,
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
+  },
+  {
+    "itemName": "BLUEBERRY",
+    "quantity": 1,
+    "expireIn": 7,
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
+  },
+  {
+    "itemName": "MILK",
+    "quantity": 1,
+    "expireIn": 7,
+    "dateAdded": 1784186103465,
+    "inFridgeDays": 6
+  }
+]
